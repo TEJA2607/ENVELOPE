@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ENVELOPE/static/css/main.353e0249.css",
+    "main.js": "/ENVELOPE/static/js/main.799366cf.js",
+    "static/js/453.1407b060.chunk.js": "/ENVELOPE/static/js/453.1407b060.chunk.js",
+    "static/media/TEJ.jpg": "/ENVELOPE/static/media/TEJ.534c4ca5e002d89d8e7f.jpg",
+    "index.html": "/ENVELOPE/index.html",
+    "main.353e0249.css.map": "/ENVELOPE/static/css/main.353e0249.css.map",
+    "main.799366cf.js.map": "/ENVELOPE/static/js/main.799366cf.js.map",
+    "453.1407b060.chunk.js.map": "/ENVELOPE/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.353e0249.css",
+    "static/js/main.799366cf.js"
+  ]
+}
